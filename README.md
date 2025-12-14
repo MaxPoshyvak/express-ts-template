@@ -4,7 +4,7 @@ Minimal backend template with Express and TypeScript.
 
 ## Install
 
-`npx degit MaxPoshyvak/express-ts-template backend`
+`bun x degit MaxPoshyvak/express-ts-template backend`
 
 ## Scripts
 
